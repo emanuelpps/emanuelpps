@@ -24,12 +24,28 @@ Actualmente trabajando en marketing digital y buscando mi primer trabajo IT.🤓
 
 
 - 🔍 Certificación SEO - Coderhouse
+
+
+- ✍ Content Marketing Certified - HubSpot Academy
+
+
+- 📩 Email Marketing Certified - HubSpot Academy
+
+
+- 🪂 Indbound Marketing Certified - HubSpot Academy
   
 
 <br/>  
 
 
+<div align="center" margin-top: "300px">
+<img src="https://media.giphy.com/media/OPYnG3Xf8zLag/giphy.gif" align="center" height="200" width="300" />
+</div>  
+
 ## My Skill Set  
+
+
+
 <table><tr><td valign="top" width="33%">
 
 
