@@ -63,6 +63,7 @@ Actualmente trabajando en marketing digital y buscando mi primer trabajo IT.🤓
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 </div>
+ <a href="https://www.framer.com/motion/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/42876?v=4&s=160" alt="React" height="50" /></a>
 
 </td><td valign="top" width="33%">
 
