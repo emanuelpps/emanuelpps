@@ -4,7 +4,7 @@
   
 
 ### <div align="center">¡Hola! Mi nombre es Emanuel Pagés
-Apasionado de la programación, soy un junior front-end developer con deseo de aprender y crecer en un entorno colaborativo. Poseo conocimientos en HTML, CSS, JAVASCRIPT y REACTJS. Actualmente, me encuentro recorriendo la ruta de aprendizaje para convertirme en Full Stack developer.
+Soy un apasionado de la programación y un junior front-end developer con muchas ganas de aprender y crecer en un ambiente colaborativo. Me encanta crear sitios web y aplicaciones atractivas y fáciles de usar. Actualmente, cuento con conocimientos sólidos en HTML, CSS, JavaScript y ReactJS, y estoy constantemente buscando oportunidades para mejorar mis habilidades y conocimientos. Mi objetivo a largo plazo es convertirme en un Full Stack developer y estoy trabajando arduamente para alcanzar esta meta. Si estás buscando un miembro entusiasta y comprometido para tu equipo de desarrollo, ¡no dudes en contactarme!.
 
 Actualmente trabajando en marketing digital y buscando mi primer trabajo IT.🤓
 
@@ -78,8 +78,7 @@ Actualmente trabajando en marketing digital y buscando mi primer trabajo IT.🤓
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
+<a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>   
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 </div>
 
