@@ -9,9 +9,6 @@ Soy un apasionado de la programación y un junior front-end developer con muchas
 Actualmente trabajando en marketing digital y buscando mi primer trabajo IT.🤓
 
 👨‍💻 Working remotely 🚀</div>  
-  
-
-- 📇 Cursando Diseño UX/IU - Open Boot Camp  
 
 
 - 🌱 Cursando programación Back-End - Coderhouse 
