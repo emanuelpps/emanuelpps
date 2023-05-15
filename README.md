@@ -1,5 +1,5 @@
 <div align="center" margin-top: "300px">
-<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2022/03/photo-1619410283995-43d9134e7656.jpeg" align="center" height="300" width="800" />
+<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2022/03/photo-1619410283995-43d9134e7656.jpeg" align="center" height="400" width="800" />
 </div>  
 
 
