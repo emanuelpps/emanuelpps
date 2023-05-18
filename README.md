@@ -7,7 +7,7 @@ Actualmente trabajando en marketing digital y buscando mi primer trabajo IT.🤓
 👨‍💻 Working remotely 🚀</div>  
 
 
-- 🌱 Cursando programación Back-End - Coderhouse 
+- 🔌 Certificación Back-End - Coderhouse 
   
 
 - 😎 Certificación ReactJS  - Coderhouse  
