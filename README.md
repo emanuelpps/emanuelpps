@@ -95,7 +95,7 @@ Actualmente trabajando en marketing digital y buscando mi primer trabajo IT.🤓
 ## Connect with me  
 <div align="center">
   <a href="https://linkedin.com/in/emanuel-ps" target="_blank">
-<img src=https://unpkg.com/simple-icons@8.15.0/icons/files.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/files.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
 <a href="https://github.com/emanuelpps" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
