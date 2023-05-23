@@ -94,6 +94,9 @@ Actualmente trabajando en marketing digital y buscando mi primer trabajo IT.🤓
 
 ## Connect with me  
 <div align="center">
+  <a href="https://emanuelpps.github.io/" target="_blank">
+<img src=https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139 style="margin-bottom: 5px;" />
+</a>
 <a href="https://github.com/emanuelpps" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
