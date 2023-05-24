@@ -38,9 +38,6 @@ Actualmente trabajando en marketing digital y buscando mi primer trabajo IT.🤓
 <br/>  
 
 
-<div align="center" margin-top: "300px">
-<img src="https://media.giphy.com/media/OPYnG3Xf8zLag/giphy.gif" align="center" height="200" width="300" />
-</div>  
 
 ## My Skill Set  
 
