@@ -4,9 +4,8 @@
 
 
 ### <div align="center">¡Hola! Mi nombre es Emanuel Pagés
-Soy un apasionado de la programación y un junior full-stack developer con muchas ganas de aprender y crecer en un ambiente colaborativo. Me encanta crear sitios web y aplicaciones atractivas y fáciles de usar. Actualmente, cuento con conocimientos sólidos en HTML, CSS, JavaScript y ReactJS, y estoy constantemente buscando oportunidades para mejorar mis habilidades y conocimientos. Mi objetivo a largo plazo es crecer y fortalecer todos mis conocimientos como Full Stack developer y estoy trabajando arduamente para alcanzar esta meta. Si estás buscando un miembro entusiasta y comprometido para tu equipo de desarrollo, ¡no dudes en contactarme!.
+Soy un apasionado de la programación y un Front-End developer con muchas ganas de aprender y crecer en un ambiente colaborativo. Me encanta crear sitios web y aplicaciones atractivas y fáciles de usar. Actualmente, cuento con conocimientos sólidos en HTML, CSS, JavaScript y ReactJS, y estoy constantemente buscando oportunidades para mejorar mis habilidades y conocimientos. Mi objetivo a largo plazo es crecer y fortalecer todos mis conocimientos como Full Stack developer y estoy trabajando arduamente para alcanzar esta meta. Si estás buscando un miembro entusiasta y comprometido para tu equipo de desarrollo, ¡no dudes en contactarme!.
 
-Actualmente trabajando en marketing digital y buscando mi primer trabajo IT.🤓
 
 👨‍💻 Working remotely 🚀</div>  
 
