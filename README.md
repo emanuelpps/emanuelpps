@@ -10,28 +10,28 @@ Soy un apasionado de la programación y un Front-End developer con muchas ganas 
 👨‍💻 Working remotely 🚀</div>  
 
 
-- 🔌 Certificación Back-End - Coderhouse 
+- 🔌 Certificación Back-End
   
 
-- 😎 Certificación ReactJS  - Coderhouse  
+- 😎 Certificación ReactJS 
   
 
-- 💪 Certificación JavaScript - Coderhouse   
+- 💪 Certificación JavaScript  
 
 
-- 🏗️ Certificación Desarrollo Web - Coderhouse
+- 🏗️ Certificación Desarrollo Web
 
 
-- 🔍 Certificación SEO - Coderhouse
+- 🔍 Certificación SEO
 
 
-- ✍ Content Marketing Certified - HubSpot Academy
+- ✍ Content Marketing Certified
 
 
-- 📩 Email Marketing Certified - HubSpot Academy
+- 📩 Email Marketing Certified
 
 
-- 🪂 Indbound Marketing Certified - HubSpot Academy
+- 🪂 Indbound Marketing Certified
   
 
 <br/>  
