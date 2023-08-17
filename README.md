@@ -104,10 +104,7 @@ Soy un apasionado de la programación y un Front-End developer con muchas ganas 
   
 
 <br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=emanuelpps&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+ 
 
 <br/>  
 
