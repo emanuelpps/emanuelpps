@@ -23,15 +23,6 @@ Soy un apasionado de la programación y un Front-End developer con muchas ganas 
 
 
 - 🔍 Certificación SEO
-
-
-- ✍ Content Marketing Certified
-
-
-- 📩 Email Marketing Certified
-
-
-- 🪂 Indbound Marketing Certified
   
 
 <br/>  
