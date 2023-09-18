@@ -1,5 +1,5 @@
 <div align="center" margin-top: "100px">
-<img src="https://i.ibb.co/gjrTxm3/Dise-o-sin-t-tulo-7.png" align="center" height="300" width="900" />
+<img src="https://i.ibb.co/4mTyW7j/Front-End-Developer.png" align="center" height="300" width="900" />
 </div>  
 
 
