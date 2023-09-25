@@ -1,28 +1,27 @@
-<div align="center" margin-top: "100px">
+<div align="center" style="margin-top: 100px;">
 <img src="https://i.ibb.co/4mTyW7j/Front-End-Developer.png" align="center" height="300" width="900" />
 </div>  
 
 
-### <div align="center">¡Hola! Mi nombre es Emanuel Pagés
-Soy un apasionado de la programación y un Front-End developer con muchas ganas de aprender y crecer en un ambiente colaborativo. Me encanta crear sitios web y aplicaciones atractivas y fáciles de usar. Actualmente, cuento con conocimientos sólidos en HTML, CSS, JavaScript y ReactJS, y estoy constantemente buscando oportunidades para mejorar mis habilidades y conocimientos. Mi objetivo a largo plazo es crecer y fortalecer todos mis conocimientos como Full Stack developer y estoy trabajando arduamente para alcanzar esta meta. Si estás buscando un miembro entusiasta y comprometido para tu equipo de desarrollo, ¡no dudes en contactarme!.
-
+### <div align="center">Hello! My name is Emanuel Pagés
+I am passionate about programming and a Front-End developer with a strong desire to learn and grow in a collaborative environment. I love creating attractive and user-friendly websites and applications. Currently, I possess a solid foundation in HTML, CSS, JavaScript, and ReactJS, and I am constantly seeking opportunities to enhance my skills and knowledge. My long-term goal is to expand and strengthen all my expertise as a Full Stack developer, and I am working diligently to achieve this goal. If you are looking for an enthusiastic and committed member for your development team, please do not hesitate to contact me!
 
 👨‍💻 Working remotely 🚀</div>  
 
 
-- 🔌 Certificación Back-End
+- 🔌 Backend Certification
   
 
-- 😎 Certificación ReactJS 
+- 😎 ReactJS Certification 
   
 
-- 💪 Certificación JavaScript  
+- 💪 JavaScript Certification  
 
 
-- 🏗️ Certificación Desarrollo Web
+- 🏗️ Web Development Certification
 
 
-- 🔍 Certificación SEO
+- 🔍 SEO Certification
   
 
 <br/>  
@@ -69,7 +68,7 @@ Soy un apasionado de la programación y un Front-End developer con muchas ganas 
 
 
 
-### Control de Versiones  
+### Version Control  
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
