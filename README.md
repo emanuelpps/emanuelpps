@@ -4,7 +4,7 @@
 
 
 ### <div align="center">Hello! My name is Emanuel Pagés
-I am passionate about programming and a Front-End developer with a strong desire to learn and grow in a collaborative environment. I love creating attractive and user-friendly websites and applications. Currently, I possess a solid foundation in HTML, CSS, JavaScript, and ReactJS, and I am constantly seeking opportunities to enhance my skills and knowledge. My long-term goal is to expand and strengthen all my expertise as a Full Stack developer, and I am working diligently to achieve this goal. If you are looking for an enthusiastic and committed member for your development team, please do not hesitate to contact me!
+I am passionate about programming and a Front-End developer with a strong desire to learn and grow in a collaborative environment. I love creating attractive and user-friendly websites and applications. Currently, I have a solid understanding of HTML, CSS, JavaScript, and ReactJS, and I am constantly seeking opportunities to enhance my skills and knowledge. My long-term goal is to grow and improve my skills as a Full Stack developer, and I am working hard to reach this objective. If you are looking for an enthusiastic and committed member for your development team, Please feel free to get in touch with me!
 
 👨‍💻 Working remotely 🚀</div>  
 
