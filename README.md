@@ -82,11 +82,13 @@ I am passionate about programming and a Front-End developer with a strong desire
 
 </td></tr></table>  
 
-<br/>  
+ 
 ### Statics  
 <div align="center">  
-<img href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api?username=emanuelpps" alt="Git" height="50" /></img>  
+<img href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api?username=emanuelpps"/></img>  
 </div>
+
+<br/> 
 
 ## Connect with me  
 <div align="center">
