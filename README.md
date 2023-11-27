@@ -52,6 +52,12 @@ I am passionate about programming and a Front-End developer with a strong desire
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>
  </div>
 
+ ### Native  
+<div align="center">  
+  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" alt="HTML5" height="50" /></a>
+ </div>
+
 </td><td valign="top" width="33%">
 
 
