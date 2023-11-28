@@ -55,7 +55,7 @@ I am passionate about programming and a Front-End developer with a strong desire
  ### Native
 <div align="center">  
 <a href="https://reactnative.dev/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" alt="React Native" height="50" /></a>
-<a href="https://expo.dev/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/353722/expo.svg" alt="EXPO" height="50" /></a>
+<a href="https://expo.dev/" target="_blank"><img style="margin: 10px" src="https://media.licdn.com/dms/image/C5622AQHeJVaFPExhlw/feedshare-shrink_800/0/1674506853853?e=1704326400&v=beta&t=Qxvxd8MYpYcu_iuAc6wRlccmZygXMlzgQoXVH9zwJI8" alt="EXPO" height="50" /></a>
  </div>
 
 </td><td valign="top" width="33%">
