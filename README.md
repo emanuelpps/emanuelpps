@@ -1,4 +1,4 @@
-<div align="center" style="margin-top: 100px;">
+<div align="center" style="margin-top: 10px;">
 <img src="https://i.ibb.co/4mTyW7j/Front-End-Developer.png" align="center" height="300" width="900" />
 </div>  
 
