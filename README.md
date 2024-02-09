@@ -1,5 +1,5 @@
 <div align="center" style="margin-top: 100px;">
-<img src="https://res.cloudinary.com/dkgoszhfr/image/upload/f_auto,q_auto/syn5mfp5fao5ihpat72o" height= "350px" width="350px" align="center" style="border-radius:20%"/>
+<img src="https://res.cloudinary.com/dkgoszhfr/image/upload/f_auto,q_auto/syn5mfp5fao5ihpat72o" height= "350px" width="350px" align="center" style="border-radius:20%;"/>
 </div>  
 
 
