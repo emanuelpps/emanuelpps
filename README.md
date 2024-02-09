@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td style="width: 100%;">
+    <td style="width: 500px;">
       <img src="https://res.cloudinary.com/dkgoszhfr/image/upload/f_auto,q_auto/aoatz9dqjlnscwdh10zq" min-width="350px" height="350px" style="border-radius:20%;" />
     </td>
     <td style="width: 300px">
