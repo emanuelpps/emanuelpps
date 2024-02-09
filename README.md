@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td>
+    <td style='color:transparent;'>
       <img src="https://res.cloudinary.com/dkgoszhfr/image/upload/f_auto,q_auto/aoatz9dqjlnscwdh10zq" width="2950px" height="250px" style="border-radius:20%; padding-left:50px;" />
     </td>
     <td>
