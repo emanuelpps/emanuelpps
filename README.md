@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td style="width: 350px;">
-      <img src="https://res.cloudinary.com/dkgoszhfr/image/upload/f_auto,q_auto/aoatz9dqjlnscwdh10zq" width="350px" height="350px" style="border-radius:20%;" />
+      <img src="https://res.cloudinary.com/dkgoszhfr/image/upload/f_auto,q_auto/aoatz9dqjlnscwdh10zq" min-width="350px" height="350px" style="border-radius:20%;" />
     </td>
     <td style="width: auto;">
       <div align="left" style="width: 100%;">
