@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://res.cloudinary.com/dkgoszhfr/image/upload/f_auto,q_auto/aoatz9dqjlnscwdh10zq" width="950px" height="350px" style="border-radius:20%; padding-left:50px;" />
+      <img src="https://res.cloudinary.com/dkgoszhfr/image/upload/f_auto,q_auto/aoatz9dqjlnscwdh10zq" width="1950px" height="350px" style="border-radius:20%; padding-left:50px;" />
     </td>
     <td>
       <div align="left" style="max-width: 300px;">
