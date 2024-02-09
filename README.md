@@ -91,8 +91,8 @@ I am passionate about programming and a Front-End developer with a strong desire
  
 ### Statics  
 <div align="center">  
-<img href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api?username=emanuelpps"/></img>  
-<img href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelpps&layout=compact"/></img>
+<img href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api?username=emanuelpps&title_color=006AFF&icon_color=0579C3&text_color=417E87&bg_color=ffffff00&show_icons=true"/></img>  
+<img href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelpps&layout=compact&title_color=006AFF&icon_color=0579C3&text_color=417E87&bg_color=ffffff00&show_icons=true"/></img>
 </div>
 
 <br/> 
