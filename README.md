@@ -3,10 +3,12 @@
     <td>
       <img src="https://res.cloudinary.com/dkgoszhfr/image/upload/f_auto,q_auto/aoatz9dqjlnscwdh10zq" width="350px" height="350px" style="border-radius:20%; margin-right: 20px;" />
     </td>
-    <td>
+    <td style="width: 50%;">
       <div>
-        <div align="center">Hello! My name is Emanuel Pagés. I am passionate about programming and a Front-End developer with a strong desire to learn and grow in a collaborative environment. I love creating attractive and user-friendly websites and applications. Currently, I have a solid understanding of HTML, CSS, JavaScript, and ReactJS, and I am constantly seeking opportunities to enhance my skills and knowledge. My long-term goal is to grow and improve my skills as a Full Stack developer, and I am working hard to reach this objective. If you are looking for an enthusiastic and committed member for your development team, Please feel free to get in touch with me!</div>
-        <div align="center">👨💻 Working remotely</div>
+        <div align="left" style="width: 80%;">
+          Hello! My name is Emanuel Pagés. I am passionate about programming and a Front-End developer with a strong desire to learn and grow in a collaborative environment. I love creating attractive and user-friendly websites and applications. Currently, I have a solid understanding of HTML, CSS, JavaScript, and ReactJS, and I am constantly seeking opportunities to enhance my skills and knowledge. My long-term goal is to grow and improve my skills as a Full Stack developer, and I am working hard to reach this objective. If you are looking for an enthusiastic and committed member for your development team, Please feel free to get in touch with me!
+        </div>
+        <div align="left">👨💻 Working remotely</div>
       </div>
     </td>
   </tr>
