@@ -1,18 +1,15 @@
-<table>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="https://res.cloudinary.com/dkgoszhfr/image/upload/f_auto,q_auto/aoatz9dqjlnscwdh10zq" width="350px" height="350px" style="border-radius:20%;" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div align="left">
-        <div>Hello! My name is Emanuel Pagés. I am passionate about programming and a Front-End developer with a strong desire to learn and grow in a collaborative environment. I love creating attractive and user-friendly websites and applications. Currently, I have a solid understanding of HTML, CSS, JavaScript, and ReactJS, and I am constantly seeking opportunities to enhance my skills and knowledge. My long-term goal is to grow and improve my skills as a Full Stack developer, and I am working hard to reach this objective. If you are looking for an enthusiastic and committed member for your development team, Please feel free to get in touch with me!</div>
-        <div>👨💻 Working remotely</div>
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://res.cloudinary.com/dkgoszhfr/image/upload/f_auto,q_auto/aoatz9dqjlnscwdh10zq" width="350px" height="350px" style="border-radius:20%;" />
+</div>
+  
+<div align="left" style="margin-top: 20px;">
+  <div>
+    Hello! My name is Emanuel Pagés. I am passionate about programming and a Front-End developer with a strong desire to learn and grow in a collaborative environment. I love creating attractive and user-friendly websites and applications. Currently, I have a solid understanding of HTML, CSS, JavaScript, and ReactJS, and I am constantly seeking opportunities to enhance my skills and knowledge. My long-term goal is to grow and improve my skills as a Full Stack developer, and I am working hard to reach this objective. If you are looking for an enthusiastic and committed member for your development team, Please feel free to get in touch with me!
+  </div>
+  <div style="margin-top: 10px;">👨💻 Working remotely</div>
+</div>
+
+
 
 
 
