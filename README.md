@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://res.cloudinary.com/dkgoszhfr/image/upload/f_auto,q_auto/aoatz9dqjlnscwdh10zq" height="350px" width="350px" style="border-radius:20%; margin-right: 0px;" />
+      <img src="https://res.cloudinary.com/dkgoszhfr/image/upload/f_auto,q_auto/aoatz9dqjlnscwdh10zq" height="350px" width="350px" style="border-radius:20%; margin-right: 20px;" />
     </td>
     <td>
       <div>
@@ -11,6 +11,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
