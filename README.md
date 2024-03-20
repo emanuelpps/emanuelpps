@@ -93,6 +93,7 @@ Statics
 <img href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelpps&layout=compact&title_color=006AFF&icon_color=0579C3&text_color=417E87&bg_color=ffffff00&show_icons=true"/></img>
 </div>
 <br/> 
+
 Connect with me
 <div align="center">
   <a href="https://emanuelp-portfolio.vercel.app/" target="_blank">
@@ -102,18 +103,19 @@ Connect with me
 <a href="https://linkedin.com/in/emanuel-ps" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>  
 </div> 
+
 Deployed Projects
 <div align="center">
   <a href="https://emanuelp-portfolio.vercel.app/works/ep-music-player" target="_blank">
-<img src=https://img.shields.io/badge/EP_Music_Player-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139 style="margin-bottom: 5px;" /></a>
+<img src=https://img.shields.io/badge/EP_Music_Player-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139&labelColor=black style="margin-bottom: 5px; border-radius: 8px; background-color: black; padding: 8px; color: white;" /></a>
 <a href="https://emanuelp-portfolio.vercel.app/works/ep-weather" target="_blank">
-<img src=https://img.shields.io/badge/EP_Weather-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139 style="margin-bottom: 5px;" /></a>
+<img src=https://img.shields.io/badge/EP_Weather-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139&labelColor=black style="margin-bottom: 5px; border-radius: 8px; background-color: black; padding: 8px; color: white;" /></a>
 <a href="https://emanuelp-portfolio.vercel.app/works/don-remolo" target="_blank">
-<img src=https://img.shields.io/badge/Don_Remolo_Pizza-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139 style="margin-bottom: 5px;" /></a>
+<img src=https://img.shields.io/badge/Don_Remolo_Pizza-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139&labelColor=black style="margin-bottom: 5px; border-radius: 8px; background-color: black; padding: 8px; color: white;" /></a>
 <a href="https://emanuelp-portfolio.vercel.app/works/edu-class" target="_blank">
-<img src=https://img.shields.io/badge/EduClass-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139 style="margin-bottom: 5px;" /></a>
+<img src=https://img.shields.io/badge/EduClass-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139&labelColor=black style="margin-bottom: 5px; border-radius: 8px; background-color: black; padding: 8px; color: white;" /></a>
 <a href="https://emanuelp-portfolio.vercel.app/works/home-fix" target="_blank">
-<img src=https://img.shields.io/badge/HomeFix-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139 style="margin-bottom: 5px;" /></a>
+<img src=https://img.shields.io/badge/HomeFix-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139&labelColor=black style="margin-bottom: 5px; border-radius: 8px; background-color: black; padding: 8px; color: white;" /></a>
 </div>
 
 
