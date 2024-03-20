@@ -87,13 +87,13 @@ I am passionate about programming and a Front-End developer with a strong desire
 
 </div>
 </td></tr></table>  
-### Statics
+Statics
 <div align="center">  
 <img href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api?username=emanuelpps&title_color=006AFF&icon_color=0579C3&text_color=417E87&bg_color=ffffff00&show_icons=true"/></img>  
 <img href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelpps&layout=compact&title_color=006AFF&icon_color=0579C3&text_color=417E87&bg_color=ffffff00&show_icons=true"/></img>
 </div>
 <br/> 
-### Connect with me
+Connect with me
 <div align="center">
   <a href="https://emanuelp-portfolio.vercel.app/" target="_blank">
 <img src=https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139 style="margin-bottom: 5px;" /></a>
@@ -102,7 +102,7 @@ I am passionate about programming and a Front-End developer with a strong desire
 <a href="https://linkedin.com/in/emanuel-ps" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>  
 </div> 
-### Deployed Projects
+Deployed Projects
 <div align="center">
   <a href="https://emanuelp-portfolio.vercel.app/works/ep-music-player" target="_blank">
 <img src=https://img.shields.io/badge/EP_Music_Player-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139 style="margin-bottom: 5px;" /></a>
