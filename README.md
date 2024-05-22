@@ -1,6 +1,9 @@
-<div align="center" style="margin-top: 100px;">
-<img src="https://res.cloudinary.com/dkgoszhfr/image/upload/f_auto,q_auto/aoatz9dqjlnscwdh10zq" height= "350px" width="350px" align="center" style="border-radius:20%;"/>
-</div>  
+<picture>
+  <source media="(min-width: 769px) and (prefers-color-scheme: light)" srcset="https://res.cloudinary.com/dkgoszhfr/image/upload/v1716379489/rzg0geva6oldmbhrh6ym.png">
+
+  <source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/dkgoszhfr/image/upload/v1716379505/mudryx10oj9dn63vaths.png">
+
+</picture>
 
 
 ### <div align="center">Hello! My name is Emanuel Pagés
