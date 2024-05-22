@@ -3,6 +3,8 @@
 
   <source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/dkgoszhfr/image/upload/v1716379505/mudryx10oj9dn63vaths.png">
 
+  <img src="https://res.cloudinary.com/dkgoszhfr/image/upload/v1716379489/rzg0geva6oldmbhrh6ym.png" alt="Emanuel Pages Frontend Developer" width="50%" title="Frontend Developer">
+
 </picture>
 
 
