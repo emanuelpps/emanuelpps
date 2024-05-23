@@ -1,5 +1,5 @@
 <picture>
-  <source media="(min-width: 780px) and (prefers-color-scheme: light)" srcset="https://res.cloudinary.com/dkgoszhfr/image/upload/v1716491550/rgrs0xrr1vmtaetmcd11.png">
+  <source media="(min-width: 780px) and (prefers-color-scheme: light)" srcset="">
 
   <source media="(max-width: 780px) and (prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/dkgoszhfr/image/upload/v1716380203/djbtqavokbzyvrivece4.png">
 
