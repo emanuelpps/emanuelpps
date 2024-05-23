@@ -1,9 +1,9 @@
 <picture>
-  <source media="(min-width: 780px) and (prefers-color-scheme: light)" srcset="">
+  <source media="(min-width: 780px) and (prefers-color-scheme: light)" srcset="https://res.cloudinary.com/dkgoszhfr/image/upload/v1716491550/rgrs0xrr1vmtaetmcd11.png">
 
   <source media="(max-width: 780px) and (prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/dkgoszhfr/image/upload/v1716380203/djbtqavokbzyvrivece4.png">
 
-  <img src="https://res.cloudinary.com/dkgoszhfr/image/upload/v1716379505/mudryx10oj9dn63vaths.png" alt="Emanuel Pages Frontend Developer" width="100%" title="Frontend Developer">
+  <img src="https://res.cloudinary.com/dkgoszhfr/image/upload/v1716491550/rgrs0xrr1vmtaetmcd11.png" alt="Emanuel Pages Frontend Developer" width="100%" title="Frontend Developer">
 
 </picture>
 
