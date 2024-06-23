@@ -60,7 +60,7 @@ I am passionate about programming. I love creating attractive and user-friendly 
  ### Native
 <div align="center">  
 <a href="https://reactnative.dev/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" alt="React Native" height="50" /></a>
-<a href="https://expo.dev/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt="EXPO" height="50" /></a>
+<a href="https://expo.dev/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt="EXPO" height="30" /></a>
  </div>
 
 </td><td valign="top" width="33%">
