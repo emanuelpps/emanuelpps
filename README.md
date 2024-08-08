@@ -37,7 +37,7 @@ I am passionate about programming. I love creating attractive and user-friendly 
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
-<div align="center">  
+<div align="left">  
 <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin: 5px;"/>
 <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="margin: 5px;"/>
 <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin: 5px;"/>
@@ -103,16 +103,3 @@ I am passionate about programming. I love creating attractive and user-friendly 
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" /></a>  
 </div> 
 
-## Deployed Projects
-<div align="center">
-  <a href="https://emanuelp-portfolio.vercel.app/works/ep-music-player" target="_blank">
-<img src="https://img.shields.io/badge/EP_Music_Player-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139&labelColor=black" style="margin-bottom: 5px; border-radius: 8px; background-color: black; padding: 8px; color: white;" /></a>
-<a href="https://emanuelp-portfolio.vercel.app/works/ep-weather" target="_blank">
-<img src="https://img.shields.io/badge/EP_Weather-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139&labelColor=black" style="margin-bottom: 5px; border-radius: 8px; background-color: black; padding: 8px; color: white;" /></a>
-<a href="https://emanuelp-portfolio.vercel.app/works/don-remolo" target="_blank">
-<img src="https://img.shields.io/badge/Don_Remolo_Pizza-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139&labelColor=black" style="margin-bottom: 5px; border-radius: 8px; background-color: black; padding: 8px; color: white;" /></a>
-<a href="https://emanuelp-portfolio.vercel.app/works/edu-class" target="_blank">
-<img src="https://img.shields.io/badge/EduClass-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139&labelColor=black" style="margin-bottom: 5px; border-radius: 8px; background-color: black; padding: 8px; color: white;" /></a>
-<a href="https://emanuelp-portfolio.vercel.app/works/home-fix" target="_blank">
-<img src="https://img.shields.io/badge/HomeFix-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139&labelColor=black" style="margin-bottom: 5px; border-radius: 8px; background-color: black; padding: 8px; color: white;" /></a>
-</div>
