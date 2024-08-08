@@ -54,7 +54,7 @@ I am passionate about programming. I love creating attractive and user-friendly 
 </div>
 
 ### Native
-<div align="center">  
+<div align="left">  
 <img src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React Native" style="margin: 5px;"/>
 <img src="https://img.shields.io/badge/Expo-%23000000.svg?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" style="margin: 5px;"/>
 </div>
@@ -63,7 +63,7 @@ I am passionate about programming. I love creating attractive and user-friendly 
 
 
 ### Backend  
-<div align="center">  
+<div align="left">  
 <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin: 5px;"/>
 <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="margin: 5px;"/>
 <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" style="margin: 5px;"/>
