@@ -75,12 +75,12 @@ I am passionate about programming. I love creating attractive and user-friendly 
 
 
 ### Version Control  
-<div align="center">  
+<div align="left">  
 <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin: 5px;"/>
 </div>
 
 ### Design  
-<div align="center">  
+<div align="left">  
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" style="margin: 5px;"/>
 <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" style="margin: 5px;"/>
 </div>
