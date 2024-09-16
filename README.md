@@ -9,7 +9,9 @@
 
 
 ### <div align="center">Hello! My name is Emanuel Pagés
-I am passionate about programming. I love creating attractive and user-friendly websites and applications. Currently working in Digital Marketing and as a Frontend Developer. I am constantly seeking to improve my skills as a developer. If you are looking for an enthusiastic and committed member for your development team, Please feel free to get in touch with me!
+I have been dedicated to digital products for over 10 years. Since 2021, I have focused on SEO and programming, building on my previous experience in digital marketing and ecommerce. Throughout my career, I have worked in various companies, gaining expertise in different areas of the digital world.
+
+I am confident that my combination of SEO, programming, and digital marketing knowledge allows me to bring great value to any project I work on.
 
 👨💻 Working remotely </div>  
 
