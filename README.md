@@ -17,7 +17,7 @@ I’ve worked in the digital world for more than 10 years, developing skills in 
 ---
 
 ### Certifications
-- 🖥️ **Frontend Development:** JavaScript, ReactJS
+- 🖥️ **Frontend Development:** JavaScript, Typescript, ReactJS
 - 🔍 **SEO Specialist**
 - 💾 **Backend Development**
 - 🏗️ **Web Development Fundamentals**
