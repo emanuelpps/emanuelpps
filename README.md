@@ -11,8 +11,7 @@
 I’ve worked in the digital world for more than 10 years, developing skills in programming, SEO, and Digital Marketing. Since 2021, I’ve specialized in frontend development, using my experience to create optimized, user-friendly solutions. Having worked in different companies and roles, I bring a unique perspective on creating digital products that truly work for users.
 
 💻 **Currently Working Remotely**  
-🎯 **Focused on Frontend Development**  
-🐍 **Python Diploma (in progress)**
+🎯 **Focused on Frontend Development**
 
 ---
 
@@ -20,7 +19,8 @@ I’ve worked in the digital world for more than 10 years, developing skills in 
 - 🖥️ **Frontend Development:** JavaScript, Typescript, React, NextJS
 - 🔍 **SEO Specialist**
 - 💾 **Backend Development**
-- 🏗️ **Web Development Fundamentals**
+- 🏗️ **Web Development Fundamentals**  
+- 🐍 **Python Diploma**
 
 ---
 
