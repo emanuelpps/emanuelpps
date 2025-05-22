@@ -61,10 +61,14 @@ I have over 10 years of experience working with digital products, during which I
         <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" style="margin: 5px;"/>
         <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" style="margin: 5px;"/>
         <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin: 5px;"/>
+        <img src="https://img.shields.io/badge/Jira-%230072C6.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" style="margin: 5px;"/>
+        <img src="https://img.shields.io/badge/Trello-%230073E6.svg?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" style="margin: 5px;"/>
+        <img src="https://img.shields.io/badge/Retool-%23000000.svg?style=for-the-badge&logo=retool&logoColor=white" alt="Retool" style="margin: 5px;"/>
       </div>
     </td>
   </tr>
 </table>
+
 
 ---
 
