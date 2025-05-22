@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <h1>Hi, I'm Emanuel Pagés 👋</h1>
   <p>🌍 Passionate Frontend Developer</p>
   <p>Transforming ideas into functional digital solutions.</p>
