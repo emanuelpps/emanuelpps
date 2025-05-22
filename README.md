@@ -19,7 +19,6 @@ I have over 10 years of experience working with digital products, during which I
 - 🎓 **Higher Technician in Programming** (In Progress)  
 
 ---
----
 
 ### Certifications
 - 🖥️ **Frontend Development:** JavaScript, Typescript, React, NextJS
