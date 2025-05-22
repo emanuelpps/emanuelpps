@@ -1,7 +1,6 @@
 <div>
   <h1>Hi, I'm <strong>Emanuel Pagés</strong> 👋</h1>
-  <p>🌍 Passionate Frontend Developer</p>
-  <p>Transforming ideas into functional digital solutions.</p>
+  <p>Passionate Frontend Developer</p>
 </div>
 
 ---
