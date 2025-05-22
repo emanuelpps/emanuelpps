@@ -1,6 +1,6 @@
 <div>
   <h1>Hi, I'm <strong>Emanuel Pagés</strong> 👋</h1>
-  > **Passionate Frontend Developer**
+  <p>**Passionate Frontend Developer**</p> 
 </div>
 
 ---
