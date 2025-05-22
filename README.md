@@ -1,5 +1,5 @@
 <div>
-  <h1>Hi, I'm Emanuel Pagés 👋</h1>
+  <h1>Hi, I'm <strong>Emanuel Pagés<strong> 👋</h1>
   <p>🌍 Passionate Frontend Developer</p>
   <p>Transforming ideas into functional digital solutions.</p>
 </div>
