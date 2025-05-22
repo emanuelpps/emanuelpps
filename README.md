@@ -8,11 +8,17 @@
 
 ### About Me
 
-I’ve worked in the digital world for more than 10 years, developing skills in programming, SEO, and Digital Marketing. Since 2021, I’ve specialized in frontend development, using my experience to create optimized, user-friendly solutions. Having worked in different companies and roles, I bring a unique perspective on creating digital products that truly work for users.
+I have over 10 years of experience working with digital products, during which I’ve developed strong skills in programming, SEO, and digital marketing. Since 2021, I’ve focused on frontend development, combining my background with a passion for building optimized and user-friendly solutions. Having held different roles across various companies, I bring a well-rounded perspective that helps me create digital products that truly meet users’ needs.
 
 💻 **Currently Working Remotely**  
 🎯 **Focused on Frontend Development**
 
+---
+
+### Currently Studying
+- 🎓 **Higher Technician in Programming** (In Progress)  
+
+---
 ---
 
 ### Certifications
