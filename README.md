@@ -19,9 +19,8 @@ I have over 10 years of experience working with digital products, during which I
 ---
 
 ### Certifications
-- 🖥️ **Frontend Development:** JavaScript, Typescript, React, NextJS
+- 🖥️ **Full Stack Development**
 - 🔍 **SEO Specialist**
-- 💾 **Backend Development**
 - 🏗️ **Web Development Fundamentals**  
 - 🐍 **Python Diploma**
 
