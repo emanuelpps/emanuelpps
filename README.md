@@ -1,6 +1,6 @@
-# Hi, I'm **Emanuel Pagés** 👋
+# Hi, I'm **Emanuel Pagés**
 
-***Passionate Frontend Developer***
+***Frontend Developer***
 
 ---
 
