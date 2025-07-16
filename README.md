@@ -62,10 +62,10 @@ My multidisciplinary background allows me to **bridge the gap between design, de
 
 ---
 
-## 🏆 Achievements & Trophies
+## 📈 Development Activity & Contribution Metrics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emanuelpps&theme=flat&title=Commits,Repositories,Followers,Stars&margin-w=15" alt="Trophies" />
+  <img src="https://streak-stats.demolab.com?user=emanuelpps&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
 </p>
 
 ---
@@ -83,12 +83,5 @@ My multidisciplinary background allows me to **bridge the gap between design, de
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
----
-
-## 💡 Personal Motto
-
-> “Great user experiences are crafted at the intersection of design, development, and empathy.”  
-> – Emanuel Pagés
 
 ---
