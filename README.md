@@ -78,9 +78,6 @@ My multidisciplinary background allows me to **bridge the gap between design, de
   <a href="https://emanuelp-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-006AFF?style=for-the-badge&logo=web&logoColor=white" />
   </a>
-  <a href="https://github.com/emanuelpps" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://linkedin.com/in/emanuel-ps" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
